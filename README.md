@@ -3,7 +3,7 @@
 ### This is a simple placeholder package for **discord.js**.
  You can install this package with:
  ```
- npm i discord-placeholder
+ npm i discord-placeholders
  ```
  >Below are some code examples using this package:
  ```js
